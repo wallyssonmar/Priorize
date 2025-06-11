@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UWGU+Ef5U3heiZLA2siDajig/6aWXprxj7Qpd3rXO2Y=",
+  "Source": "taskApi",
+  "BasePath": "_content/taskApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
