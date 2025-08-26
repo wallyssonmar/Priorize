@@ -1,0 +1,19 @@
+
+services:
+  backend:
+    build: ./backend/taskApi/taskApi
+    container_name: backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/data:/app/data   # SQLite persistente
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
+
+  frontend:
+    build: ./frontend/Priorize
+    container_name: frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend

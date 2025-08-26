@@ -8,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
+builder.WebHost.UseUrls("http://0.0.0.0:5000");
+
+
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -34,6 +38,12 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<TaskDbContext>();
+    db.Database.Migrate(); // Aplica as migrations pendentes
 }
 
 

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\projetos\\Priorize\\Backend\\taskApi\\",
+  "WorkspaceRootPath": "E:\\projetos\\Priorize\\backend\\taskApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|solutionrelative:taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725F22B5-9A38-499C-BED1-312B793CCC68}|taskApi\\taskApi.csproj|e:\\projetos\\priorize\\backend\\taskapi\\taskapi\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,50 +54,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AttStatusDTO.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\DTOs\\AttStatusDTO.cs",
-              "RelativeDocumentMoniker": "taskApi\\Models\\DTOs\\AttStatusDTO.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\DTOs\\AttStatusDTO.cs",
-              "RelativeToolTip": "taskApi\\Models\\DTOs\\AttStatusDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:13:22.495Z",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Dockerfile",
+              "RelativeDocumentMoniker": "taskApi\\Dockerfile",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Dockerfile",
+              "RelativeToolTip": "taskApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T14:33:41.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "AttStatusDTO.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\DTOs\\AttStatusDTO.cs",
+              "RelativeDocumentMoniker": "taskApi\\Models\\DTOs\\AttStatusDTO.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\DTOs\\AttStatusDTO.cs",
+              "RelativeToolTip": "taskApi\\Models\\DTOs\\AttStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:13:22.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "taskApi\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "taskApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-09T14:11:05.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TaskDTO.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\DTOs\\TaskDTO.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\DTOs\\TaskDTO.cs",
               "RelativeDocumentMoniker": "taskApi\\Models\\DTOs\\TaskDTO.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\DTOs\\TaskDTO.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\DTOs\\TaskDTO.cs",
               "RelativeToolTip": "taskApi\\Models\\DTOs\\TaskDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T17:51:33.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T17:51:33.267Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\appsettings.json",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\appsettings.json",
               "RelativeDocumentMoniker": "taskApi\\appsettings.json",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\appsettings.json",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\appsettings.json",
               "RelativeToolTip": "taskApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -102,52 +117,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Program.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Program.cs",
               "RelativeDocumentMoniker": "taskApi\\Program.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Program.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Program.cs",
               "RelativeToolTip": "taskApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T16:23:35.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TaskDbContext.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Data\\TaskDbContext.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Data\\TaskDbContext.cs",
               "RelativeDocumentMoniker": "taskApi\\Data\\TaskDbContext.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Data\\TaskDbContext.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Data\\TaskDbContext.cs",
               "RelativeToolTip": "taskApi\\Data\\TaskDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T16:17:19.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T16:17:19.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Tasks.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\Tasks.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\Tasks.cs",
               "RelativeDocumentMoniker": "taskApi\\Models\\Tasks.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Models\\Tasks.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Models\\Tasks.cs",
               "RelativeToolTip": "taskApi\\Models\\Tasks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T16:05:40.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T16:05:40.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "taskApi\\Controllers\\TaskController.cs",
-              "ToolTip": "E:\\projetos\\Priorize\\Backend\\taskApi\\taskApi\\Controllers\\TaskController.cs",
+              "ToolTip": "E:\\projetos\\Priorize\\backend\\taskApi\\taskApi\\Controllers\\TaskController.cs",
               "RelativeToolTip": "taskApi\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAADgvzYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T15:59:19.149Z",
               "EditorCaption": ""
